@@ -2,7 +2,7 @@
 
 from pyCommandLine import pyCommandLine
 
-def pyMoveOriginalFiles(filesPath, filesName, folder2movePath, folder2moveName):
+def pyMoveFiles(filesPath, filesName, folder2movePath, folder2moveName):
 	# variables
 	# input. filesPath: str, filesName: list of str, folder2movePath: str, folderName2move: str
 	# output: str
