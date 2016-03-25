@@ -4,7 +4,7 @@ from pyConvert2List import pyConvert2List
 
 def pyDeleteCharacter(list2change, character2delete):
 
-	# replate in all the elements of a list	
+	# replace in all the elements of a list	
 	# use:
 	# from pyDeleteCharacter import pyDeleteCharacter; pyDeleteCharacter('holaM','M')
 	# variables:
