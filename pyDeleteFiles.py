@@ -9,4 +9,4 @@ def pyDeleteFiles(filesPath, filesName):
 	for fileName in filesName:
 		fileNameAndPath = filesPath+'/'+fileName
 		print 'File deleted: ' + str(fileName)
-		return pyDeleteFile(fileNameAndPath)
+		pyDeleteFile(fileNameAndPath)
